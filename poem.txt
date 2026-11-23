@@ -1,4 +1,4 @@
-The Rainbow,
+The Rainbow and the Unicorn
 
 Purple
 Pink 
@@ -8,5 +8,7 @@ Red
 Green
 Yellow
 
+Unicorn
 
-I do not remember the rest of the colors
+
+I do not remember the rest of the colors, but there is a unicorn
